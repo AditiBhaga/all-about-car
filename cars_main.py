@@ -1,5 +1,4 @@
 #importing the required libraries
-from turtle import width
 import numpy as np
 import streamlit as st
 import pandas as pd
